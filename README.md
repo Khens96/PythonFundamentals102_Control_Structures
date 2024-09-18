@@ -166,13 +166,6 @@ else:
 
 ---------------------------------------------------------------------------------------
 
-some_condition = False
-
-if some_condition:
-    print("some_condition is True")
-else:
-    print("some_condition was False")
-
 #Was the code under the else statement executed? Why?
 ```
 
